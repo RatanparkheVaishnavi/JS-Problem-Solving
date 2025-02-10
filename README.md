@@ -57,7 +57,7 @@ Minimum qualification: "Bachelor's Degree"
 Write a function isEligibleForJob(age, experience, qualification) that returns whether the applicant is eligible.
 
 7. E-commerce Coupon Redemption 
-Scenario: 
+Scenario:  
 An e-commerce store offers coupon-based discounts:
 Coupon "DISCOUNT10" → 10% off for orders above $500
 Coupon "FREESHIP" → Free shipping for orders above $200
@@ -65,7 +65,7 @@ Both coupons cannot be used together
 Write a function applyCoupon(orderAmount, couponCode) that calculates the final price.
 
 8. Fitness Membership Plan 
-Scenario: 
+Scenario:  
 A gym offers different membership plans:
 Basic ($20/month) → Only gym access
 Premium ($50/month) → Gym + Personal Trainer
@@ -73,7 +73,7 @@ VIP ($80/month) → Gym + Trainer + Diet Plan
 Write a function choosePlan(planType, wantsTrainer, wantsDietPlan) that suggests the best membership.
 
 9. Electricity Bill Calculation with Peak Hours 
-Scenario: 
+Scenario:  
 An electricity board charges differently based on consumption and time:
 Normal hours (8 AM - 8 PM)
 Below 100 units → $5 per unit
@@ -83,7 +83,7 @@ Peak hours (8 PM - 8 AM) → Extra 10% charge on all rates
 Write a function calculateElectricityBill(units, timeOfDay) that returns the total bill.
 
 10. Flight Ticket Booking System 
-Scenario: 
+Scenario:  
 A flight booking system applies the following rules:
 Base fare: $300
 Additional charges:
