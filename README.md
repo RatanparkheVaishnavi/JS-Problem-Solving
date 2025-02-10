@@ -48,7 +48,7 @@ Senior citizens (above 60) → 30% discount
 Children (below 12) → 40% discount
 Write a function calculateTicketPrice(age, showTime) that returns the final ticket price.
 
-6. Job Application Filter  
+6. Job Application Filter   
 Scenario: 
 A company is hiring and requires candidates to meet the following conditions:
 Age must be between 21 and 55
@@ -56,7 +56,7 @@ Experience must be at least 2 years
 Minimum qualification: "Bachelor's Degree"
 Write a function isEligibleForJob(age, experience, qualification) that returns whether the applicant is eligible.
 
-7. E-commerce Coupon Redemption 
+7. E-commerce Coupon Redemption  
 Scenario:  
 An e-commerce store offers coupon-based discounts:
 Coupon "DISCOUNT10" → 10% off for orders above $500
@@ -64,7 +64,7 @@ Coupon "FREESHIP" → Free shipping for orders above $200
 Both coupons cannot be used together
 Write a function applyCoupon(orderAmount, couponCode) that calculates the final price.
 
-8. Fitness Membership Plan 
+8. Fitness Membership Plan  
 Scenario:  
 A gym offers different membership plans:
 Basic ($20/month) → Only gym access
@@ -72,7 +72,7 @@ Premium ($50/month) → Gym + Personal Trainer
 VIP ($80/month) → Gym + Trainer + Diet Plan
 Write a function choosePlan(planType, wantsTrainer, wantsDietPlan) that suggests the best membership.
 
-9. Electricity Bill Calculation with Peak Hours 
+9. Electricity Bill Calculation with Peak Hours  
 Scenario:  
 An electricity board charges differently based on consumption and time:
 Normal hours (8 AM - 8 PM)
@@ -82,7 +82,7 @@ Above 300 units → $3 per unit
 Peak hours (8 PM - 8 AM) → Extra 10% charge on all rates
 Write a function calculateElectricityBill(units, timeOfDay) that returns the total bill.
 
-10. Flight Ticket Booking System 
+10. Flight Ticket Booking System  
 Scenario:  
 A flight booking system applies the following rules:
 Base fare: $300
